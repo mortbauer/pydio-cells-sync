@@ -1,0 +1,6 @@
+.github
+.git
+app/ux/build
+app/ux/node_modules
+Dockerfile
+dist
